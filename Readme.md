@@ -1,6 +1,6 @@
 ## About This Repository
 
-This repository contains the very first Python programs I’ve ever written (on 12/4/24) as I began my programming journey. They are the answers to the questions for my course evaluation in the fundamentals of python programming. While these programs may not always be the most efficient or optimized, and they may lack error-handling, as well as user-friendly prompts, BUT they represent the coding that I was capable of after about 30 hours of study.
+This repository contains the very first Python programs I’ve ever written (on 12/4/24) as I began my programming journey. They are the answers to the questions for my course evaluation in the fundamentals of python programming (@ Eastern university). While these programs may not always be the most efficient or optimized, and they may lack error-handling, as well as user-friendly prompts, BUT they represent the coding that I was capable of after about 30 hours of study.
 
 I created this repository to:
 - Showcase my starting point in programming.
